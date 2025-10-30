@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "modsbeforequeue",
+    "name": "ModsBeforeQueue",
+    "authors": [
+        "AzureInfoHazard"
+    ],
+    "description": "A Simple Mod to Send the Client mod information before being sent to the queue",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}

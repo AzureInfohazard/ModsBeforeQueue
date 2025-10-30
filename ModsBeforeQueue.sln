@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "ModsBeforeQueue\CakeBuild\CakeBuild.csproj", "{E7BDF09B-A5F9-42A2-B05B-65AFD8EB1EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModsBeforeQueue", "ModsBeforeQueue\ModsBeforeQueue\ModsBeforeQueue.csproj", "{E2B99C82-F695-4B1B-B5D9-D36274AF795F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BDF09B-A5F9-42A2-B05B-65AFD8EB1EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BDF09B-A5F9-42A2-B05B-65AFD8EB1EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BDF09B-A5F9-42A2-B05B-65AFD8EB1EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BDF09B-A5F9-42A2-B05B-65AFD8EB1EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B99C82-F695-4B1B-B5D9-D36274AF795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B99C82-F695-4B1B-B5D9-D36274AF795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B99C82-F695-4B1B-B5D9-D36274AF795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B99C82-F695-4B1B-B5D9-D36274AF795F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02D0D7F-D35F-4D90-89AF-C28B8231A9D3}
+	EndGlobalSection
+EndGlobal
