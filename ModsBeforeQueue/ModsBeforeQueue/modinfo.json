@@ -1,13 +1,17 @@
 {
-    "type": "code",
-    "modid": "modsbeforequeue",
-    "name": "ModsBeforeQueue",
-    "authors": [
-        "AzureInfoHazard"
-    ],
-    "description": "A Simple Mod to Send the Client mod information before being sent to the queue",
-    "version": "0.0.1",
-    "dependencies": {
-        "game": ""
-    }
+  "type": "code",
+  "modid": "modsbeforequeue",
+  "name": "ModsBeforeQueue",
+  "authors": [
+    "AzureInfoHazard"
+  ],
+  "description": "A Simple Mod to Send the Client mod information before being sent to the queue",
+  "version": "0.0.2",
+  "dependencies": {
+    "game": "",
+    "queueapi": "1.0.0"
+  },
+  "side":  "Server",
+  "requiredOnServer": true,
+  "requiredOnClient": false
 }
