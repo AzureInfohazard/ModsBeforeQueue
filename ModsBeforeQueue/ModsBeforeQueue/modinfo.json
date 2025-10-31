@@ -10,4 +10,7 @@
     "dependencies": {
         "game": ""
     }
+    "side": "server",
+    "requiredOnClient": false,
+    "requiredOnServer": true,
 }
