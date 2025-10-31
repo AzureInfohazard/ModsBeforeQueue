@@ -16,10 +16,7 @@ namespace ModsBeforeQueue
         public override bool ShouldLoad(EnumAppSide forSide) => forSide == EnumAppSide.Server;
         // Called on server and client
         // Useful for registering block/entity classes on both sides
-        public override void Start(ICoreAPI api)
-        {
-
-        }
+     
         public override void StartServerSide(ICoreServerAPI api)
         {
             _api = api;
@@ -28,10 +25,6 @@ namespace ModsBeforeQueue
 
         }
        
-        public override void StartClientSide(ICoreClientAPI api)
-        {
-
-        }
     }
     [HarmonyPatch(typeof(ServerMain), "PreFinalizePlayerIdentification")]
     public static class ModBeforeQueuePatch
