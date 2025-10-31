@@ -20,7 +20,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="VintagestoryLib">
-      <HintPath>$(VINTAGE_STORY)/VintagestoryLib.dll</HintPath>
+      <HintPath>$(VINTAGE_STORY)/VintagestoryLib.dll</HintPath> 
       <Private>false</Private>
     </Reference>
   </ItemGroup>

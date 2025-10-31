@@ -6,7 +6,7 @@
     "AzureInfoHazard"
   ],
   "description": "A Simple Mod to Send the Client mod information before being sent to the queue",
-  "version": "0.0.2",
+  "version": "0.0.2-rc.1",
   "dependencies": {
     "game": "",
     "queueapi": "1.0.0"
