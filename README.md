@@ -1,7 +1,7 @@
 # ModsBeforeQueue
 ## *THIS IS CURRENTLY UNDER WORK, CAUSES EXTREME INSTABILITY CURRENTLY*
 Allows Clients to download mods before being put into queue.
-Sends a extra server information packet before sending the normal server queue packet
+-Sends a extra server information packet before sending the normal server queue packet- Turns out this causes some BIG issues - haha oops
 Currently looks to work with no known issues
 
 ### How and What
